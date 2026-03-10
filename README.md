@@ -45,7 +45,7 @@ Incluye trabajos relacionados con:
 - Técnicas de evasión, comportamiento del malware, IOCs.
 
 ### 3️⃣ OSINT Investigation (S21sec Bootcamp)
-- [Acceder al proyecto ➡️](./Malware-Analysis-Petya)
+- [Acceder al proyecto ➡️](./OSINT)
 - Investigación basada en **Open Source Intelligence (OSINT)** utilizando fuentes abiertas para la recopilación, verificación y análisis de información.
 - Técnicas de búsqueda avanzada, análisis de perfiles y correlación de información pública.
 
