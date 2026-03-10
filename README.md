@@ -2,36 +2,30 @@
 
 Bienvenido a mi portfolio de ciberseguridad 🔐
 
-Este repositorio reúne proyectos técnicos y de Governance, Risk & Compliance (GRC) desarrollados durante mi formación técnica en ciberseguridad en el Bootcamp de Ciberseguridad de The Bridge Digital Talent Accelerator y la formación específica en GRC Corporativo en Mondragon Unibertsitatea.
+Este repositorio reúne proyectos técnicos desarrollados durante mi formación en el **Bootcamp de Ciberseguridad de The Bridge Digital Talent Accelerator**, centrados en el análisis de vulnerabilidades, pentesting y análisis de malware.
 
 Incluye trabajos relacionados con:
 
 • Pentesting y análisis de vulnerabilidades  
-• Análisis de malware  
-• OSINT e inteligencia de amenazas  
-• Gestión de riesgos en seguridad de la información  
-• Auditoría y cumplimiento normativo (ISO 27001, ENS, RGPD)
+• Ethical hacking y explotación de sistemas  
+• Análisis estático y dinámico de malware  
+• Análisis de indicadores de compromiso (IOCs)
 
 ---
 
 ## 🧰 Áreas de trabajo
 
-- 🔒 Pentesting y Ethical Hacking
-- 🔬 Análisis de Malware
-- 🕵️‍♂️ OSINT e Inteligencia de Amenazas
-- 📑 Cumplimiento Normativo y GRC
-- 📊 Análisis de Vulnerabilidades
+🔒 Pentesting y Ethical Hacking  
+🔬 Análisis de Malware  
+📊 Análisis de Vulnerabilidades  
 
 ---
 
 ## 📚 Marcos y metodologías utilizadas
 
-• ISO 27001 – Sistemas de Gestión de Seguridad de la Información  
-• ISO 27005 – Gestión de riesgos de seguridad de la información  
-• ISO 31000 – Gestión del riesgo  
-• Esquema Nacional de Seguridad (ENS) 
-• Reglamento General de Protección de Datos (RGPD)
-• OWASP Testing Guide
+• OWASP Testing Guide  
+• Metodologías de pentesting y explotación  
+• Técnicas de análisis estático y dinámico de malware  
 
 ---
 
