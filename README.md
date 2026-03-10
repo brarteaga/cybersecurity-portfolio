@@ -1,10 +1,16 @@
-# cybersecurity-portfolio
-Portfolio profesional de ciberseguridad con proyectos de pentesting, análisis de malware, OSINT y cumplimiento normativo.
-Cybersecurity Portfolio
+# Cybersecurity Portfolio
 
-Bienvenidos a mi portfolio de ciberseguridad 🔐
+Bienvenido a mi portfolio de ciberseguridad 🔐
 
-Aquí muestro algunos de los proyectos prácticos que he desarrollado durante mi formación en el Bootcamp de Ciberseguridad de The Bridge Digital Talent Accelerator y en prácticas de laboratorio.
+Este repositorio reúne proyectos técnicos y de Governance, Risk & Compliance (GRC) desarrollados durante mi formación técnica en ciberseguridad en el Bootcamp de Ciberseguridad de The Bridge Digital Talent Accelerator y la formación específica en GRC Corporativo en Mondragon Unibertsitatea.
+
+Incluye trabajos relacionados con:
+
+• Pentesting y análisis de vulnerabilidades  
+• Análisis de malware  
+• OSINT e inteligencia de amenazas  
+• Gestión de riesgos en seguridad de la información  
+• Auditoría y cumplimiento normativo (ISO 27001, ENS, RGPD)
 
 ---
 
@@ -15,6 +21,17 @@ Aquí muestro algunos de los proyectos prácticos que he desarrollado durante mi
 - 🕵️‍♂️ OSINT e Inteligencia de Amenazas
 - 📑 Cumplimiento Normativo y GRC
 - 📊 Análisis de Vulnerabilidades
+
+---
+
+## 📚 Marcos y metodologías utilizadas
+
+• ISO 27001 – Sistemas de Gestión de Seguridad de la Información  
+• ISO 27005 – Gestión de riesgos de seguridad de la información  
+• ISO 31000 – Gestión del riesgo  
+• Esquema Nacional de Seguridad (ENS) 
+• Reglamento General de Protección de Datos (RGPD)
+• OWASP Testing Guide
 
 ---
 
