@@ -2,14 +2,15 @@
 
 Bienvenido a mi portfolio de ciberseguridad 🔐
 
-Este repositorio reúne proyectos técnicos desarrollados durante mi formación en el **Bootcamp de Ciberseguridad de The Bridge Digital Talent Accelerator**, centrados en el análisis de vulnerabilidades, pentesting y análisis de malware.
+Este repositorio reúne proyectos técnicos desarrollados durante mi formación en el **Bootcamp de Ciberseguridad de The Bridge Digital Talent Accelerator**, centrados en el análisis de vulnerabilidades, pentesting, análisis de malware y OSINT.
 
 Incluye trabajos relacionados con:
 
 • Pentesting y análisis de vulnerabilidades  
 • Ethical hacking y explotación de sistemas  
 • Análisis estático y dinámico de malware  
-• Análisis de indicadores de compromiso (IOCs)
+• OSINT e investigación en fuentes abiertas  
+• Identificación de indicadores de compromiso (IOCs)
 
 ---
 
@@ -17,6 +18,7 @@ Incluye trabajos relacionados con:
 
 🔒 Pentesting y Ethical Hacking  
 🔬 Análisis de Malware  
+🕵️ OSINT e inteligencia de amenazas  
 📊 Análisis de Vulnerabilidades  
 
 ---
@@ -26,6 +28,7 @@ Incluye trabajos relacionados con:
 • OWASP Testing Guide  
 • Metodologías de pentesting y explotación  
 • Técnicas de análisis estático y dinámico de malware  
+• Técnicas de investigación OSINT
 
 ---
 
@@ -40,6 +43,11 @@ Incluye trabajos relacionados con:
 - [Acceder al proyecto ➡️](./Malware-Analysis-Petya)
 - Análisis estático y dinámico de la muestra de Petya.  
 - Técnicas de evasión, comportamiento del malware, IOCs.
+
+### 3️⃣ OSINT Investigation (S21sec Bootcamp)
+- [Acceder al proyecto ➡️](./Malware-Analysis-Petya)
+- Investigación basada en **Open Source Intelligence (OSINT)** utilizando fuentes abiertas para la recopilación, verificación y análisis de información.
+- Técnicas de búsqueda avanzada, análisis de perfiles y correlación de información pública.
 
 ---
 
