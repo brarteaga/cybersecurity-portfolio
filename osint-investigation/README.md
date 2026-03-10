@@ -1,4 +1,4 @@
-# 🕵️ OSINT Investigation
+# 🕵️ Investigación OSINT
 
 Investigación basada en **Open Source Intelligence (OSINT)** desarrollada durante el Bootcamp de Ciberseguridad de The Bridge sobre la empresa de ciberseguridad **S21Sec**.
 
